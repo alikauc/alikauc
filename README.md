@@ -34,7 +34,7 @@ I’m a researcher and developer passionate about building **energy-efficient in
 ---
 
 ## 📂 Selected Projects
-- 🌀 **Photonic-based QRC Simulation** – Time-series forecasting with coupled Kerr oscillators, exploring quantum advantages.  
+- 🌀 **Continuous-Variable QRC Simulation** – Time-series forecasting with coupled Kerr oscillators, exploring quantum advantages.  
 - 🔋 **Energy Load Forecasting** – LSTM-based day-ahead electricity demand prediction.  
 - ⚡ **HPC-Optimized AI Workflows** – Large-scale ML and simulation pipelines running on compute clusters.
 

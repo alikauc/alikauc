@@ -35,25 +35,26 @@ I’m a researcher and developer passionate about building **energy-efficient in
 
 ## 📂 Selected Projects
 - 🌀 **Continuous-Variable QRC Simulation** – Time-series forecasting with coupled Kerr oscillators, exploring quantum advantages.  
-- 🔋 **Energy Load Forecasting** – LSTM-based day-ahead electricity demand prediction.  
-- ⚡ **HPC-Optimized AI Workflows** – Large-scale ML and simulation pipelines running on compute clusters.
+- 🔋 **Energy Load Forecasting** – LSTM-based day-ahead electricity demand prediction.
+- 🌃 **Multimodal Garbage Classification** - Combined image and text models in a hybrid classifier.
+<!-- - ⚡ **HPC-Optimized AI Workflows** – Large-scale ML and simulation pipelines running on compute clusters.-->
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliKarimi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKarimi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKarimi&layout=compact&theme=tokyonight)--
 
 ---
 
-<!--## 🎙 Science Communication
+## 🎙 Science Communication
 - 🎤 Hosted & produced episodes for the **Energy Futures** podcast  
 - 📚 Delivered lectures on **Kerr oscillators as computational resources**  
 - 🧠 Passionate about translating quantum/AI research into accessible insights-->
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-karimi-ut/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ali.karimi.ut@gmail.com)
 
 ---
 

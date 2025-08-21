@@ -34,9 +34,9 @@ I’m a researcher and developer passionate about building **energy-efficient in
 ---
 
 ## 📂 Selected Projects
-- 🌀 **Continuous-Variable QRC Simulation** – Time-series forecasting with coupled Kerr oscillators, exploring quantum advantages.[(here)](https://github.com/alikauc/epsilon-effect--Youssef-Task)  
-- 🔋 **Energy Load Forecasting** – LSTM-based day-ahead electricity demand prediction.
-- 🌃 **Multimodal Garbage Classification** - Combined image and text models in a hybrid classifier.
+- 🌀 **Continuous-Variable QRC Simulation** – Time-series forecasting with coupled Kerr oscillators, exploring quantum advantages.[(here)](https://github.com/alikauc/Kerr_Coupled_QRC-Paper-)  
+- 🔋 **Energy Load Forecasting** – LSTM-based day-ahead electricity demand prediction.[(here)](https://github.com/alikauc/LSTM-Electericity-Load-Forecast)  
+- 🌃 **Multimodal Garbage Classification** - Combined image and text models in a hybrid classifier.[(here)](https://github.com/alikauc/Multimodal-Garbage-Classification) 
 <!-- - ⚡ **HPC-Optimized AI Workflows** – Large-scale ML and simulation pipelines running on compute clusters.-->
 
 ---

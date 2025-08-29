@@ -16,7 +16,7 @@ I’m a researcher and developer passionate about building **energy-efficient in
 - 🌀 Quantum Reservoir Computing with **coupled Kerr nonlinear oscillators**  
 - 📊 Investigating **entanglement advantages** in temporal data prediction  
 - 🔍 Systematic Hyperparameter optimization for quantum simulations  
-- ⚡ Energy-efficient computation at the intersection of **AI & quantum optics**
+- ⚡ Energy-efficient computation at the intersection of **AI & quantum**
 
 ---
 

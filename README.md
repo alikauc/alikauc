@@ -74,12 +74,12 @@ I am a researcher and developer passionate about building **energy-efficient int
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=alikauc&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub stats" height="180px" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alikauc&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
-</p>
+</p>-->
 
 ---
 

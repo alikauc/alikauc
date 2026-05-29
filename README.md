@@ -2,8 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-karimi-ut/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.karimi2@ucalgary.ca)
-[![GitHub followers](https://img.shields.io/github/followers/alikauc?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/alikauc)
-[![Visitors](https://komarev.com/ghpvc/?username=alikauc&color=0078d4&style=for-the-badge&label=Profile+Views)](https://github.com/alikauc)
+<!--[![GitHub followers](https://img.shields.io/github/followers/alikauc?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/alikauc)
+[![Visitors](https://komarev.com/ghpvc/?username=alikauc&color=0078d4&style=for-the-badge&label=Profile+Views)](https://github.com/alikauc)-->
 
 🚀 **Full-Stack AI Engineer & Quantum Computing Researcher**
 
@@ -71,17 +71,18 @@ I am a researcher and developer passionate about building **energy-efficient int
 ### [📷 Multimodal Image Classification Pipeline](https://github.com/alikauc/Multimodal-Garbage-Classification)
 - Built a dual-stream deep learning framework combining a ResNet-based CNN with a DistilBERT Transformer for multimodal data alignment.
 - Scaled training using PyTorch Distributed Data Parallel (DDP) across multiple GPUs, reducing training time by 70% while maintaining 87% accuracy.
-
+<!--
 ---
 
-<!--## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=alikauc&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub stats" height="180px" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alikauc&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
-</p>-->
+</p>
 
 ---
+-->
 
 ## 🏆 Key Achievements
 - **1st Place Winner** — GenQ Global Hackathon Series 2025 (Calgary edition, overall champion).
